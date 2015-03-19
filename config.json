@@ -1,0 +1,8 @@
+{
+	"userName": "ericzhang93",
+	"developerToken_for_sandbox": "S=s1:U=8fda7:E=1537e7cae5d:C=14c26cb7fc8:P=1cd:A=en-devtoken:V=2:H=300ef97524bc7259511c164796e6d994",
+	"consumer_key": "ericzhang93",
+	"consumer_secret": "35eb507bffb08911",
+	"isSandbox": true,
+	"NoteStore_URL": "https://sandbox.evernote.com/shard/s1/notestore"
+}

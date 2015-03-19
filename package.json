@@ -1,0 +1,19 @@
+{
+  "name": "EvernotePublicLink",
+  "version": "0.0.0",
+  "description": "A fix for Evernote public link disabled for china",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "frankxin",
+  "license": "",
+  "dependencies": {
+    "cookie-parser": "^1.3.4",
+    "evernote": "^1.25.4",
+    "express": "^4.12.2",
+    "express-session": "^1.10.4",
+    "method-override": "^2.3.2",
+    "mongoose": "^3.8.25"
+  }
+}
